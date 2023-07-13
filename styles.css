@@ -481,3 +481,12 @@ h3 {
 .margin-top-900 {
   margin-top: var(--size-900);
 }
+
+/* att  */
+.attribution {
+  position: absolute;
+  font-size: 0.5rem;
+  opacity: 0.5;
+  font-style: italic;
+  transform: translate(0%, 250%);
+}
